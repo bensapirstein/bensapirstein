@@ -11,6 +11,7 @@ I'm interested in Human-Computer Interaction and working on Dardashe, an iOS Ara
 -  👯 I'm looking to collaborate on projects related to NLP, Typography, and language learning tools.
 -  🤔 I'm looking for help with implementing state-of-the-art language models and integrating them into language learning applications.
 -  💬 Ask me about Arabic and Hebrew scripts, language learning techniques, and the intersection of language and technology.
+-  I am starting to look into Phonemics.
 
 <!-- #### My skills include <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/> -->
 Find me here:
