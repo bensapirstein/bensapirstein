@@ -7,9 +7,6 @@ I'm developing a keyboard called Dardashe that helps Arabic and Hebrew speakers 
 -  I have developed several visual models for grapheme processing, and I'm looking to analyze more script data and Paleographic evidence (graphemic philology).
 -  🔭 I'm currently working on exploring the relations between Arabic and Hebrew languages and levarage them to facilitate language learning.
 -  🌱 I'm currently pursuing an MSc in Machine Learning & Data Science at Reichman University.
--  👯 I'm looking to collaborate on projects related to NLP, Typography, and language learning tools.
--  🤔 I'm looking for help with implementing state-of-the-art language models and integrating them into language learning applications.
--  💬 Ask me about Arabic and Hebrew scripts, language learning techniques, and the intersection of language and technology.
 
 <!-- #### My skills include <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/> -->
 Find me here:
