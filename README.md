@@ -4,7 +4,7 @@ I live in Tel Aviv and am currently focused on learning Arabic. The technologica
 
 I'm developing a keyboard called Dardashe that helps Arabic and Hebrew speakers interact. [Join the beta](https://forms.gle/WU5LubUQm1xTBm6o7)! (Currently only supported for iOS) I am also interested in Typography and am currently working on a font capable of interchangeably move between Arabic and Hebrew scripts. I'm an aspiring creative coder seeking to bring to the front the commonalities between cultures through language. I'm working as a Data Scientist in Microsoft.
 
--  I have developed several visual models for grapheme processing, and I'm looking to analyze more script data and Paleographic evidence (graphemic philology).
+-  🖌️ I'm implementing algorithms for grapheme processing, and I'm looking to analyze more script data and Paleographic evidence.
 -  🔭 I'm currently working on exploring the relations between Arabic and Hebrew languages and levarage them to facilitate language learning.
 -  🌱 I'm currently pursuing an MSc in Machine Learning & Data Science at Reichman University.
 
