@@ -1,11 +1,10 @@
 Hi there 👋 I'm Ben,
 
-I live in Tel Aviv and am currently focused on learning Arabic. The technological support for learning Arabic for Hebrew speakers is lacking, I'm trying to change that. I believe in the potential of technology to help us overcome barriers and progress our society and knowledge. I am focused on creating didactic tools for language acquisition, focusing on the Semitic languages. In my research, I'm exploring the similarities between Arabic and Hebrew, their genetic relations both for language and script.
+I'm an artist and researcher in typography and historical linguistics, focusing on the connections between Hebrew and Arabic as sister Semitic languages and their scripts. 
+I employ a unique typographic technique to shape these linguistic connections, create movement between the scripts, and enable a bilingual reading experience. Through my work, I aim to spark curiosity, strengthen cultural ties, and promote dialogue between communities.
 
-I'm developing a keyboard called Dardashe that helps Arabic and Hebrew speakers interact. [Join the beta](https://forms.gle/WU5LubUQm1xTBm6o7)! (Currently only supported for iOS) I am also interested in Typography and am currently working on a font capable of interchangeably move between Arabic and Hebrew scripts. I'm an aspiring creative coder seeking to bring to the front the commonalities between cultures through language. 
+I'm developing a bilingual keyboard called Dardashe for mixed Arabic and Hebrew typing. [Join the beta](https://forms.gle/WU5LubUQm1xTBm6o7) (Currently only supported for iOS)
 
--  🖌️ I'm implementing algorithms for grapheme processing, and I'm looking to analyze more script data and Paleographic evidence.
--  🔭 I'm currently working on exploring the relations between Arabic and Hebrew languages and levarage them to facilitate language learning.
 -  🌱 I'm currently pursuing an MSc in Machine Learning & Data Science at Reichman University.
 -  🪟 I'm working as a Data Scientist in Microsoft.
 
