@@ -3,8 +3,6 @@ Hi there 👋 I'm Ben,
 I'm an artist and researcher in typography and historical linguistics, focusing on the connections between Hebrew and Arabic as sister Semitic languages and their scripts. 
 I employ a unique typographic technique to shape these linguistic connections, create movement between the scripts, and enable a bilingual reading experience. Through my work, I aim to spark curiosity, strengthen cultural ties, and promote dialogue between communities.
 
-I'm developing a bilingual keyboard called Dardashe for mixed Arabic and Hebrew typing. [Join the beta](https://forms.gle/WU5LubUQm1xTBm6o7) (Currently only supported for iOS)
-
 -  🌱 I'm currently pursuing an MSc in Machine Learning & Data Science at Reichman University.
 -  🪟 I'm working as a Data Scientist in Microsoft.
 
