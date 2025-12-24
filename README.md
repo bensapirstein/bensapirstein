@@ -1,7 +1,12 @@
 Hi there 👋 I'm Ben,
 
-I'm an artist and researcher in typography and historical linguistics, focusing on the connections between Hebrew and Arabic as sister Semitic languages and their scripts. 
-I employ a unique typographic technique to shape these linguistic connections, create movement between the scripts, and enable a bilingual reading experience. Through my work, I aim to spark curiosity, strengthen cultural ties, and promote dialogue between communities.
+I explore the meeting point of Computer Science, Linguistics, and Typography. 
+
+I am interested in how the visual dimension of writing can shape understanding, and I develop approaches that treat the form of text itself as a source of information. I play with these forms and create new ways for interacting with language. My goal is supporting literacy, making linguistic knowledge more accessible and present in the ways we read and learn.
+
+In computational historical linguistics, I study how languages evolve and relate to one another, with a focus on the Semitic family. I believe that understanding etymology can deepen our thinking and highlight the connections between us all.
+
+I’m always happy to connect with curious minds who want to explore writing, language, and the ways words bring us together.
 
 -  🌱 I'm currently pursuing an MSc in Machine Learning & Data Science at Reichman University.
 -  🪟 I'm working as a Data Scientist in Microsoft.
